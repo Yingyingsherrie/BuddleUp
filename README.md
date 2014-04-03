@@ -1,4 +1,4 @@
-EECS394-Brown
+EECS394-BundleUp Brown Team
 =============
 
 Brown Team!
