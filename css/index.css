@@ -1,0 +1,27 @@
+.weather-header {
+	height: 220px;
+	background-color: gray;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+#weather-text {
+	text-align: right;
+
+}
+
+#imagewrap {
+	height: 250px;
+}
+
+#lead {
+	float: left;
+}
+
+.suggestion p {
+	text-align: right;
+}
+
+.suggestion {
+	clear: both;
+}
