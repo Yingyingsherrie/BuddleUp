@@ -7,7 +7,11 @@
 
 #weather-text {
 	text-align: right;
+}
 
+#weather {
+	height: 200px;
+	width: 200px;	
 }
 
 #imagewrap {
